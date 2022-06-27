@@ -21,7 +21,7 @@ Task: Perform Data Preprocessing, Exploratory Data Analysit, rain a  ML model on
 * The distribution of all the features are highly skewed.
 * Data is highly sparse, as most of the values are 0
 * All the features in our dataset are continuous
-* Here I have used mutual information as the measure of feature importance. I calculated the mutual information of each feature and ranked them w.r.t. the target variable. 26 features were finally shortlisted as the important features.
+* Here I have used mutual information as the measure of feature importance. I calculated the mutual information of each feature and ranked them w.r.t. the target variable. 27 features were finally shortlisted as the important features.
 
 ### Training our model + Performance on the test data
 
